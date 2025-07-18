@@ -116,7 +116,7 @@ You can now generate and manage your API keys through our official dashboard —
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/princesinff/prince-simple && cd AviaxMusic
    ```
 6. **Install Requirements**
    ```bash
